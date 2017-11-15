@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" spacing="10.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.FirstWindowController">
+   <children>
+      <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/computer_256.png" />
+         </image>
+      </ImageView>
+      <Label style="-fx-border-color: black;" text="Hello! Welcome to our application.&#10;&#10;A PC is composed, at least, of the following elements:&#10;&#9;• Motherboard&#10;&#9;• CPU&#10;&#9;• RAM memory&#10;&#9;• Graphics card&#10;&#9;• Hard disk (rotating media or SSD)&#10;&#9;• Case&#10;You can purchase other optional components, such as:&#10;&#9;• Keyboard&#10;&#9;• Mouse&#10;&#9;• Monitor&#10;&#9;• Speakers&#10;&#9;• Card multireader&#10;&#9;• DVD/Bluray&#10;&#9;• Fan&#10;&#9;• Power supply&#10;&#10;Enjoy it!" textAlignment="JUSTIFY">
+         <VBox.margin>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </VBox.margin>
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </padding>
+      </Label>
+      <HBox alignment="CENTER_RIGHT" spacing="15.0">
+         <children>
+            <Button fx:id="cancelbutton" mnemonicParsing="false" onAction="#pressCancel" text="Cancel">
+               <graphic>
+                  <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/exit-ico.png" />
+                     </image>
+                  </ImageView>
+               </graphic></Button>
+            <Button fx:id="configurebutton" mnemonicParsing="false" onAction="#pressConfigure" text="Configure">
+               <graphic>
+                  <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/continue-ico.png" />
+                     </image>
+                  </ImageView>
+               </graphic></Button>
+         </children>
+      </HBox>
+   </children>
+   <opaqueInsets>
+      <Insets left="30.0" right="30.0" />
+   </opaqueInsets>
+   <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" />
+   </padding>
+</VBox>

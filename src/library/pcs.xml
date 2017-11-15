@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listPCWrapper>
+    <PC>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>altavoz negro ewent portatil</description>
+                <price>4.88</price>
+                <stock>8</stock>
+                <category>SPEAKER</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>hd 3 5 160gb p ata 100 wd 8mb caviar refurbished</description>
+                <price>14.46</price>
+                <stock>3</stock>
+                <category>HDD</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>unyka adaptador discos ssd bahia 3.5 a 2.5</description>
+                <price>4.13</price>
+                <stock>28</stock>
+                <category>HDD_SSD</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>thermaltake tester fuente alimentacion dr power i</description>
+                <price>10.41</price>
+                <stock>38</stock>
+                <category>POWER_SUPPLY</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>lector tarjeta int 3 5 b move bm cr07</description>
+                <price>7.93</price>
+                <stock>4</stock>
+                <category>DVD_WRITER</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>modulo s o ddr2 1gb pc800 csx retail port</description>
+                <price>10.58</price>
+                <stock>1</stock>
+                <category>RAM</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>tooq soporte led lp1023fb 10 a 23 max.30kg</description>
+                <price>5.62</price>
+                <stock>1</stock>
+                <category>SCREEN</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>omega lapiz lector de tarjetas sdhc mmc</description>
+                <price>3.72</price>
+                <stock>36</stock>
+                <category>MULTIREADER</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>raspberry caja para raspberry pi b+ y pi2 negra</description>
+                <price>6.69</price>
+                <stock>10</stock>
+                <category>MOTHERBOARD</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>amd micro am1 sempron 2650 1 45ghz. box</description>
+                <price>27.85</price>
+                <stock>6</stock>
+                <category>CPU</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>omega ompfgr alfombrilla de raton  verde</description>
+                <price>2.23</price>
+                <stock>95</stock>
+                <category>MOUSE</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>gigabyte gtxtitan x gddr5 12gb 384bit dvi+hdmi+3dp</description>
+                <price>0.83</price>
+                <stock>1</stock>
+                <category>GPU</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>l link teclado multimedia ps2 negro</description>
+                <price>6.28</price>
+                <stock>19</stock>
+                <category>KEYBOARD</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>bahia unyka disco 2.5 a 3.5 para disco ssd 50519</description>
+                <price>4.3</price>
+                <stock>28</stock>
+                <category>CASE</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>ventilador tacens anima 8x8 12db fluxus bearing</description>
+                <price>3.14</price>
+                <stock>8</stock>
+                <category>FAN</category>
+            </producto>
+        </components>
+        <date>2016-04-20T00:28:36.566+02:00</date>
+        <name>The cheapest PC</name>
+    </PC>
+    <PC>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>energy tower 8 bluetooth 100w rms 7 altavoces negr</description>
+                <price>125.37</price>
+                <stock>5</stock>
+                <category>SPEAKER</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>hd 2 5 ssd 480gb sata 3 kingston hyperx savage</description>
+                <price>176.69</price>
+                <stock>1</stock>
+                <category>HDD_SSD</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>modulo ddr4 4x4gb pc2133 kingston hyperx predator</description>
+                <price>114.88</price>
+                <stock>1</stock>
+                <category>RAM</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>benq. gw2760hs 27pulg. led va full hd dvi 4ms</description>
+                <price>170.33</price>
+                <stock>16</stock>
+                <category>SCREEN</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>procesador intel core i5 6400 1151 2.7ghz bx80662i</description>
+                <price>176.03</price>
+                <stock>4</stock>
+                <category>CPU</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>msi 990fxa.gd65 am3+ 4ddr3 32gb gblan 6sata3 2usb3</description>
+                <price>102.48</price>
+                <stock>8</stock>
+                <category>MOTHERBOARD</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>thermaltake caja torre atx chase a71 negra ventana</description>
+                <price>120.66</price>
+                <stock>2</stock>
+                <category>CASE</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>gigabyte nv gtx960 gddr5 4gb 128bit 2dvi+hdmi+3dp</description>
+                <price>192.98</price>
+                <stock>71</stock>
+                <category>GPU</category>
+            </producto>
+        </components>
+        <date>2016-04-20T00:32:00.135+02:00</date>
+        <name>The deal of the week</name>
+    </PC>
+    <PC>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>hd 3 5 500gb s ata 3 toshiba 32mb dt01aca050</description>
+                <price>38.51</price>
+                <stock>15</stock>
+                <category>HDD</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>modulo ddr4 8gb pc2133 kingston hyperx fury black</description>
+                <price>43.22</price>
+                <stock>41</stock>
+                <category>RAM</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>asus a68hm k fm2+ ddr3 dvi pcx3.0 sata3 usb3.0 mat</description>
+                <price>45.87</price>
+                <stock>1</stock>
+                <category>MOTHERBOARD</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>teclado ewent usb ps2</description>
+                <price>7.19</price>
+                <stock>168</stock>
+                <category>KEYBOARD</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>intel core i3.4170 3.7ghz s1150 3mb</description>
+                <price>106.78</price>
+                <stock>25</stock>
+                <category>CPU</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>coolbox f800 caja atx usb3.0 500w</description>
+                <price>31.65</price>
+                <stock>24</stock>
+                <category>CASE</category>
+            </producto>
+        </components>
+        <components>
+            <cantidad>1</cantidad>
+            <producto>
+                <description>gigabyte  vga nvidia gt 210 1gb ddr3</description>
+                <price>31.07</price>
+                <stock>74</stock>
+                <category>GPU</category>
+            </producto>
+        </components>
+        <date>2016-04-20T00:33:23.822+02:00</date>
+        <name>Base PC</name>
+    </PC>
+</listPCWrapper>
